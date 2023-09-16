@@ -1,0 +1,16 @@
+{
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "description": "JS/TS Coding Interview Prep",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Baraka Mwakisha",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.4"
+  }
+}
